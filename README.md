@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Rainy Zhou github账号，目前正在开发 Rainy Dice 跑团机器人。。。
+- Rainy Zhou github账号，目前~~正在开发 Rainy Dice 跑团机器人~~（告一段落），正在实现hexgrid六角格地图编辑器。。。
 - 高三党（很水）。。
 - 其他小插件和 RainyDice 的 dev分支 欢迎去我的 [gitee主页](https://gitee.com/thunderain_zhou) 查看
 ![RainyZhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=raininboat&show_icons=true&theme=radical)
