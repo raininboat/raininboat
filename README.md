@@ -3,6 +3,14 @@
 - 带学牲
 - ~~该摸了~~
 
+------
+
+这么摆烂真得好吗（）
+
+------
+
+联系邮箱： thunderain_zhou@163.com
+
 ![RainyZhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=raininboat&show_icons=true&theme=radical)
 
 
